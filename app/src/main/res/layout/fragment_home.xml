@@ -70,7 +70,7 @@
             android:paddingBottom="@dimen/x20"
             android:paddingTop="@dimen/x20"
             android:scaleType="fitCenter"
-            android:src="@drawable/ic_similar" />
+            android:src="@drawable/ic_menu" />
 
     </LinearLayout>
 
