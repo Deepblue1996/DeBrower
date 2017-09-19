@@ -158,7 +158,6 @@ public class MainFragment extends SupportFragment {
                 _mActivity.finish();
             } else {
                 TOUCH_TIME = System.currentTimeMillis();
-                // TODO: UI提示
                 Toast.makeText(getContext(), "再按一次,确定退出", Toast.LENGTH_LONG).show();
             }
         }
